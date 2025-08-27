@@ -1,0 +1,5 @@
+# 2.14.6Get personnel information according to the PIN array and the department code array
+
+
+# url = "http://192.168.7.39:8098/api/v2/transaction/firstInAndLastOut/(HERE ADD THE PIN OF WORKER)?pageNo=1&pageSize=200&access_token=4ECD44C895F358C5DB39BC69C29B1006"# url = "http://192.168.7.39:8098/api/v2/transaction/firstInAndLastOut/166?pageNo=1&pageSize=200&access_token=4ECD44C895F358C5DB39BC69C29B1006"# url = "http://192.168.7.39:8098/api/v2/transaction/firstInAndLastOut/166?pageNo=1&pageSize=200&access_token=4ECD44C895F358C5DB39BC69C29B1006"
+# (HERE ADD THE PIN OF WORKER) - need to loop through all workers and get their PINs
